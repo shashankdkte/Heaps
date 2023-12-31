@@ -1,0 +1,15 @@
+Binary Tree
+  At Most two children
+
+Complete Binary Tree  
+Heap Order Property
+  Children >= Parent(minHeap )
+  Children <= Parent(maxHeap)
+
+Heap is not implemented as class
+O(N)
+Heap as array / arrayList
+
+node index = i
+Left Child = 2*i  + 1
+Right Child = 2*i + 2
